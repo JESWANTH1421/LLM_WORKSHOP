@@ -1,2 +1,2 @@
 # LLM_WORKSHOP
-create a LLM using cursor AI 
+MiniGPT – A Transformer-Based Language Model Built From Scratch
