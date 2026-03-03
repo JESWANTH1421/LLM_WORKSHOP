@@ -1,0 +1,40 @@
+Machine learning is a powerful field of artificial intelligence.
+Machine learning helps computers learn from data.
+Data is important in machine learning.
+Deep learning is a branch of machine learning.
+Neural networks are used in deep learning.
+Artificial intelligence includes machine learning and deep learning.
+Language models are trained on large amounts of text.
+A language model predicts the next word in a sentence.
+Transformers use self attention to understand text.
+Self attention helps the model focus on important words.
+The transformer architecture is widely used in modern AI.
+Large language models are built using transformers.
+A model learns patterns from training data.
+Training a model requires data and optimization.
+Optimization adjusts model parameters to reduce loss.
+Loss measures how wrong the model prediction is.
+Gradient descent is used to minimize loss.
+Backpropagation updates model weights.
+Tokens are pieces of text used in language models.
+A tokenizer converts text into tokens.
+Embeddings convert tokens into vectors.
+Vectors represent words in numerical form.
+The model processes text step by step.
+A good dataset improves model performance.
+Artificial intelligence is transforming industries.
+Machine learning is used in healthcare and finance.
+Language understanding is a core task in NLP.
+Natural language processing helps computers understand text.
+Deep learning models require large datasets.
+The attention mechanism improves long context understanding.
+Transformers process words in parallel.
+A neural network has multiple layers.
+Each layer extracts useful features from data.
+Data science combines statistics and programming.
+A language model can generate meaningful text.
+The goal of this project is to build a mini language model.
+This mini GPT model is built from scratch.
+The model predicts the next character in a sequence.
+Practice improves understanding of machine learning concepts.
+Learning AI requires curiosity and consistency.
